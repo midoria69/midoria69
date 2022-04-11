@@ -6,13 +6,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
- <div id="badges">
+ <div id="badges" align="center">
   <a href="https://komarev.com/ghpvc/?username=midoria69">
     <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   </a>
  </div>
  <h1>
-  hey there
+  hey there, 
+I am midoria69, currently a learner in web development and mobile web training in the D-Clic Togo project.
+My goals to become a Full Stack Developer
+Thank you and see you soon.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
