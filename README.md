@@ -59,5 +59,6 @@ https://github-readme-streak-stats.herokuapp.com/?user=midoria69
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
 
